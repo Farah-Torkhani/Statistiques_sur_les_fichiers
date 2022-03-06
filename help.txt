@@ -1,0 +1,12 @@
+this is a help file
+-T : Taille totale occupée (en Mo/Ko/Go)
+-t : taille occupée par les fichiers /répartoires cachées
+-N : nb fichier/répertoire(non vides)/lien symboliques
+-n : affiche les Nombres de petits fichiers (moins de (512 KO) et gros fichiers (plus de 15 Mo)
+-s : affiche le Nombres des fichiers et des répartoires vides (qui peuvent probablement etre supprimées)
+-d : Nombre de fichiers python, ou html ,etc...
+-h : pour afficher le help détaillé a partir d'un fichier texte
+-m : pour afficher un menu textel et géres les fonctionallitées d'une facon graphiques (utilisation YAD)
+-v: Pour afficher le nom des auteurs et version du code
+-m : pour afficher un menu textuel
+-f : pour analyser et afficher la résultat de statistiques sur les fichiers 
